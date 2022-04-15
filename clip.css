@@ -133,3 +133,8 @@ footer .container{
 .m4{
     margin: 100px auto;
 }
+
+h3{
+   vertical-align: middle;
+   -ms-text-combine-horizontal: all;
+}
